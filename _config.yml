@@ -9,3 +9,5 @@ navigation:
     url: setup
   - title: PZA uptake
     url: pza
+  - title: Assignment NIZ uptake
+    url: niz
